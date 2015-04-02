@@ -4,8 +4,9 @@
     background-color:transparent !important;
     border-color:#485974 !important;
 }
-h1,h2,h3,h4,h5{
-	color:#007cef !important;
+h1,h2,h3,h1 *,h2 *,h3 *{
+	color:#3ab3fe !important;
+	font-weight: 700 !important;
 }
 body{
     background-color:#222e41 !important;
