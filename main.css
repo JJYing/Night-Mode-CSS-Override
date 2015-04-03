@@ -2,7 +2,9 @@
 * *{
     color:#94aacd !important;
     background-color:transparent !important;
+    background-color: #222e41 !important;
     border-color:#485974 !important;
+    box-shadow: none !important;
 }
 h1,h2,h3,h1 *,h2 *,h3 *{
 	color:#3ab3fe !important;
@@ -10,4 +12,10 @@ h1,h2,h3,h1 *,h2 *,h3 *{
 }
 body{
     background-color:#222e41 !important;
+}
+nav, .navitems, .navi, .nav, .footer, footer, header, .header{
+	background: #222e41 !important;
+}
+img{
+	-webkit-filter:brightness(0.4) !important;
 }
