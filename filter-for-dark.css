@@ -1,0 +1,12 @@
+html {
+    -webkit-filter: contrast(0.85) sepia(1) brightness(0.5) hue-rotate(170deg) ;
+}
+
+img {
+
+}
+
+h1,h2,h3,h1 *, h2 *, h3 * {
+    -webkit-filter: brightness(1);
+    font-size: 700 ;
+}
