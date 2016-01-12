@@ -8,5 +8,5 @@ img {
 
 h1,h2,h3,h1 *, h2 *, h3 * {
     -webkit-filter: brightness(1);
-    font-size: 700 ;
+    font-weight: 700 ;
 }
